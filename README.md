@@ -1,7 +1,5 @@
 ### Hi there, I'm Turedioglu 👋
 
-<br />
-
 <!--
 **turedioglu/turedioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
