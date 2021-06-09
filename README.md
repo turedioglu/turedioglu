@@ -1,7 +1,5 @@
 ### Hi there, I'm Turedioglu 👋
 
-<img src="https://komarev.com/ghpvc/?username=turedioglu&color=orange"/>
-
 <!--
 **turedioglu/turedioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +36,9 @@ Here are some ideas to get you started:
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turedioglu&layout=compact"/>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=turedioglu&color=orange"/>
+
 
