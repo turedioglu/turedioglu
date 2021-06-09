@@ -1,6 +1,6 @@
 ### Hi there, I'm Turedioglu 👋
 
-https://komarev.com/ghpvc/?username=turedioglu&color=orange
+<img src="https://komarev.com/ghpvc/?username=turedioglu&color=orange"/>
 
 <!--
 **turedioglu/turedioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
