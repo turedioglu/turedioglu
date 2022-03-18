@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=turedioglu&color=orange"/>
-
-
 ![snake gif](https://github.com/turedioglu/turedioglu/blob/output/github-contribution-grid-snake.gif)
+
+<img src="https://komarev.com/ghpvc/?username=turedioglu&color=orange"/>
 
 
